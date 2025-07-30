@@ -1,0 +1,13 @@
+\contentsline {section}{\numberline {1}مقدمه}{3}{}%
+\contentsline {section}{\numberline {2}تعریف درخت قرمز-سیاه}{3}{}%
+\contentsline {section}{\numberline {3}ویژگی‌های درخت قرمز-سیاه}{4}{}%
+\contentsline {section}{\numberline {4}ارتفاع درخت قرمز-سیاه}{5}{}%
+\contentsline {section}{\numberline {5}چرخش در درخت قرمز-سیاه}{5}{}%
+\contentsline {subsection}{\numberline {5.1}LEFT-ROTATE}{5}{}%
+\contentsline {subsection}{\numberline {5.2}RIGHT-ROTATE}{7}{}%
+\contentsline {section}{\numberline {6}درج در درخت قرمز-سیاه}{8}{}%
+\contentsline {subsection}{\numberline {6.1}FIXUP درج در درخت قرمز-سیاه}{12}{}%
+\contentsline {section}{\numberline {7}حذف در درخت قرمز-سیاه}{14}{}%
+\contentsline {subsection}{\numberline {7.1}RB-DELETE-FIXUP }{15}{}%
+\contentsline {subsection}{\numberline {7.2}RB-DELETE-FIXUP مثال پیشرفته }{16}{}%
+\contentsline {section}{\numberline {8}منابع}{21}{}%

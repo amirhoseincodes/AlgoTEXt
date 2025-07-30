@@ -1,0 +1,830 @@
+This is XeTeX, Version 3.141592653-2.6-0.999997 (MiKTeX 25.4) (preloaded format=xelatex 2025.7.27)  30 JUL 2025 09:40
+entering extended mode
+ restricted \write18 enabled.
+ %&-line parsing enabled.
+**./base.tex
+(base.tex
+LaTeX2e <2025-06-01> patch level 1
+L3 programming layer <2025-07-19>
+(C:\Users\ASUS\AppData\Local\Programs\MiKTeX\tex/latex/base\article.cls
+Document Class: article 2025/01/22 v1.4n Standard LaTeX document class
+(C:\Users\ASUS\AppData\Local\Programs\MiKTeX\tex/latex/base\size12.clo
+File: size12.clo 2025/01/22 v1.4n Standard LaTeX file (size option)
+)
+\c@part=\count271
+\c@section=\count272
+\c@subsection=\count273
+\c@subsubsection=\count274
+\c@paragraph=\count275
+\c@subparagraph=\count276
+\c@figure=\count277
+\c@table=\count278
+\abovecaptionskip=\skip49
+\belowcaptionskip=\skip50
+\bibindent=\dimen148
+)
+(C:\Users\ASUS\AppData\Local\Programs\MiKTeX\tex/latex/fontspec\fontspec.sty
+(C:\Users\ASUS\AppData\Local\Programs\MiKTeX\tex/latex/l3packages/xparse\xparse
+.sty (C:\Users\ASUS\AppData\Local\Programs\MiKTeX\tex/latex/l3kernel\expl3.sty
+Package: expl3 2025-07-19 L3 programming layer (loader) 
+
+(C:\Users\ASUS\AppData\Local\Programs\MiKTeX\tex/latex/l3backend\l3backend-xete
+x.def
+File: l3backend-xetex.def 2025-06-09 L3 backend support: XeTeX
+\g__graphics_track_int=\count279
+\g__pdfannot_backend_int=\count280
+\g__pdfannot_backend_link_int=\count281
+))
+Package: xparse 2024-08-16 L3 Experimental document command parser
+)
+Package: fontspec 2024/05/11 v2.9e Font selection for XeLaTeX and LuaLaTeX
+
+(C:\Users\ASUS\AppData\Local\Programs\MiKTeX\tex/latex/fontspec\fontspec-xetex.
+sty
+Package: fontspec-xetex 2024/05/11 v2.9e Font selection for XeLaTeX and LuaLaTe
+X
+\l__fontspec_script_int=\count282
+\l__fontspec_language_int=\count283
+\l__fontspec_strnum_int=\count284
+\l__fontspec_tmp_int=\count285
+\l__fontspec_tmpa_int=\count286
+\l__fontspec_tmpb_int=\count287
+\l__fontspec_tmpc_int=\count288
+\l__fontspec_em_int=\count289
+\l__fontspec_emdef_int=\count290
+\l__fontspec_strong_int=\count291
+\l__fontspec_strongdef_int=\count292
+\l__fontspec_tmpa_dim=\dimen149
+\l__fontspec_tmpb_dim=\dimen150
+\l__fontspec_tmpc_dim=\dimen151
+ (C:\Users\ASUS\AppData\Local\Programs\MiKTeX\tex/latex/base\fontenc.sty
+Package: fontenc 2024/12/21 v2.1c Standard LaTeX package
+)
+(C:\Users\ASUS\AppData\Local\Programs\MiKTeX\tex/latex/fontspec\fontspec.cfg)))
+(C:\Users\ASUS\AppData\Local\Programs\MiKTeX\tex/latex/graphics\graphicx.sty
+Package: graphicx 2024/12/31 v1.2e Enhanced LaTeX Graphics (DPC,SPQR)
+
+(C:\Users\ASUS\AppData\Local\Programs\MiKTeX\tex/latex/graphics\keyval.sty
+Package: keyval 2022/05/29 v1.15 key=value parser (DPC)
+\KV@toks@=\toks17
+)
+(C:\Users\ASUS\AppData\Local\Programs\MiKTeX\tex/latex/graphics\graphics.sty
+Package: graphics 2024/08/06 v1.4g Standard LaTeX Graphics (DPC,SPQR)
+
+(C:\Users\ASUS\AppData\Local\Programs\MiKTeX\tex/latex/graphics\trig.sty
+Package: trig 2023/12/02 v1.11 sin cos tan (DPC)
+)
+(C:\Users\ASUS\AppData\Local\Programs\MiKTeX\tex/latex/graphics-cfg\graphics.cf
+g
+File: graphics.cfg 2016/06/04 v1.11 sample graphics configuration
+)
+Package graphics Info: Driver file: xetex.def on input line 106.
+
+(C:\Users\ASUS\AppData\Local\Programs\MiKTeX\tex/latex/graphics-def\xetex.def
+File: xetex.def 2022/09/22 v5.0n Graphics/color driver for xetex
+))
+\Gin@req@height=\dimen152
+\Gin@req@width=\dimen153
+) (C:\Users\ASUS\AppData\Local\Programs\MiKTeX\tex/latex/caption\caption.sty
+Package: caption 2023/08/05 v3.6o Customizing captions (AR)
+
+(C:\Users\ASUS\AppData\Local\Programs\MiKTeX\tex/latex/caption\caption3.sty
+Package: caption3 2023/07/31 v2.4d caption3 kernel (AR)
+\caption@tempdima=\dimen154
+\captionmargin=\dimen155
+\caption@leftmargin=\dimen156
+\caption@rightmargin=\dimen157
+\caption@width=\dimen158
+\caption@indent=\dimen159
+\caption@parindent=\dimen160
+\caption@hangindent=\dimen161
+Package caption Info: Standard document class detected.
+)
+\c@caption@flags=\count293
+\c@continuedfloat=\count294
+)
+(C:\Users\ASUS\AppData\Local\Programs\MiKTeX\tex/latex/float\float.sty
+Package: float 2001/11/08 v1.3d Float enhancements (AL)
+\c@float@type=\count295
+\float@exts=\toks18
+\float@box=\box53
+\@float@everytoks=\toks19
+\@floatcapt=\box54
+)
+(C:\Users\ASUS\AppData\Local\Programs\MiKTeX\tex/latex/amsmath\amsmath.sty
+Package: amsmath 2025/06/16 v2.17y AMS math features
+\@mathmargin=\skip51
+
+For additional information on amsmath, use the `?' option.
+(C:\Users\ASUS\AppData\Local\Programs\MiKTeX\tex/latex/amsmath\amstext.sty
+Package: amstext 2024/11/17 v2.01 AMS text
+
+(C:\Users\ASUS\AppData\Local\Programs\MiKTeX\tex/latex/amsmath\amsgen.sty
+File: amsgen.sty 1999/11/30 v2.0 generic functions
+\@emptytoks=\toks20
+\ex@=\dimen162
+))
+(C:\Users\ASUS\AppData\Local\Programs\MiKTeX\tex/latex/amsmath\amsbsy.sty
+Package: amsbsy 1999/11/29 v1.2d Bold Symbols
+\pmbraise@=\dimen163
+)
+(C:\Users\ASUS\AppData\Local\Programs\MiKTeX\tex/latex/amsmath\amsopn.sty
+Package: amsopn 2022/04/08 v2.04 operator names
+)
+\inf@bad=\count296
+LaTeX Info: Redefining \frac on input line 233.
+\uproot@=\count297
+\leftroot@=\count298
+LaTeX Info: Redefining \overline on input line 398.
+LaTeX Info: Redefining \colon on input line 409.
+\classnum@=\count299
+\DOTSCASE@=\count300
+LaTeX Info: Redefining \ldots on input line 495.
+LaTeX Info: Redefining \dots on input line 498.
+LaTeX Info: Redefining \cdots on input line 619.
+\Mathstrutbox@=\box55
+\strutbox@=\box56
+LaTeX Info: Redefining \big on input line 721.
+LaTeX Info: Redefining \Big on input line 722.
+LaTeX Info: Redefining \bigg on input line 723.
+LaTeX Info: Redefining \Bigg on input line 724.
+\big@size=\dimen164
+LaTeX Font Info:    Redeclaring font encoding OML on input line 742.
+LaTeX Font Info:    Redeclaring font encoding OMS on input line 743.
+\macc@depth=\count301
+LaTeX Info: Redefining \bmod on input line 904.
+LaTeX Info: Redefining \pmod on input line 909.
+LaTeX Info: Redefining \smash on input line 939.
+LaTeX Info: Redefining \relbar on input line 969.
+LaTeX Info: Redefining \Relbar on input line 970.
+\c@MaxMatrixCols=\count302
+\dotsspace@=\muskip17
+\c@parentequation=\count303
+\dspbrk@lvl=\count304
+\tag@help=\toks21
+\row@=\count305
+\column@=\count306
+\maxfields@=\count307
+\andhelp@=\toks22
+\eqnshift@=\dimen165
+\alignsep@=\dimen166
+\tagshift@=\dimen167
+\tagwidth@=\dimen168
+\totwidth@=\dimen169
+\lineht@=\dimen170
+\@envbody=\toks23
+\multlinegap=\skip52
+\multlinetaggap=\skip53
+\mathdisplay@stack=\toks24
+LaTeX Info: Redefining \[ on input line 2949.
+LaTeX Info: Redefining \] on input line 2950.
+)
+(C:\Users\ASUS\AppData\Local\Programs\MiKTeX\tex/latex/amsfonts\amssymb.sty
+Package: amssymb 2013/01/14 v3.01 AMS font symbols
+
+(C:\Users\ASUS\AppData\Local\Programs\MiKTeX\tex/latex/amsfonts\amsfonts.sty
+Package: amsfonts 2013/01/14 v3.01 Basic AMSFonts support
+\symAMSa=\mathgroup4
+\symAMSb=\mathgroup5
+LaTeX Font Info:    Redeclaring math symbol \hbar on input line 98.
+LaTeX Font Info:    Overwriting math alphabet `\mathfrak' in version `bold'
+(Font)                  U/euf/m/n --> U/euf/b/n on input line 106.
+))
+(C:\Users\ASUS\AppData\Local\Programs\MiKTeX\tex/xelatex/xepersian\xepersian.st
+y
+Package: xepersian 2025/02/02 v25.2.2 (Release Persian Gate) Persian typesettin
+g in XeLaTeX
+
+****************************************************
+* 
+* xepersian package (Persian for LaTeX, using XeTeX engine)
+* 
+* Description: The package supports Persian
+* typesetting, using fonts provided in the
+* distribution.
+* 
+* Copyright (c) 2008--2025 Vafa Khalighi
+* Copyright (c) 2018--2020 bidi-tex GitHub Organization
+* 
+* v25.2.2 (Release Persian Gate), 2025/02/02
+* 
+* License: LaTeX Project Public License, version
+* 1.3c or higher (your choice)
+* 
+* Location on CTAN: /macros/xetex/latex/xepersian
+* 
+* Issue tracker: https://github.com/xepersian/xepersian/issues
+* 
+* Discussions: https://github.com/xepersian/xepersian/discussions
+* 
+* Primary author of xepersian package: Vafa Khalighi.
+* 
+****************************************************
+
+(C:\Users\ASUS\AppData\Local\Programs\MiKTeX\tex/xelatex/xepersian\xepersian-pe
+rsiancal.sty
+Package: xepersian-persiancal 2025/01/01 v0.3 provides Persian calendar
+\XePersian@i=\count308
+\XePersian@y=\count309
+\XePersian@m=\count310
+\XePersian@d=\count311
+\XePersian@latini=\count312
+\XePersian@persiani=\count313
+\XePersian@latinii=\count314
+\XePersian@persianii=\count315
+\XePersian@latiniii=\count316
+\XePersian@persianiii=\count317
+\XePersian@latiniv=\count318
+\XePersian@persianiv=\count319
+\XePersian@latinv=\count320
+\XePersian@persianv=\count321
+\XePersian@latinvi=\count322
+\XePersian@persianvi=\count323
+\XePersian@latinvii=\count324
+\XePersian@persianvii=\count325
+\XePersian@latinviii=\count326
+\XePersian@persianviii=\count327
+\XePersian@latinix=\count328
+\XePersian@persianix=\count329
+\XePersian@latinx=\count330
+\XePersian@persianx=\count331
+\XePersian@latinxi=\count332
+\XePersian@persianxi=\count333
+\XePersian@latinxii=\count334
+\XePersian@persianxii=\count335
+\XePersian@persianxiii=\count336
+\XePersian@temp=\count337
+\XePersian@temptwo=\count338
+\XePersian@tempthree=\count339
+\XePersian@yModHundred=\count340
+\XePersian@thirtytwo=\count341
+\XePersian@dn=\count342
+\XePersian@sn=\count343
+\XePersian@mminusone=\count344
+)
+(C:\Users\ASUS\AppData\Local\Programs\MiKTeX\tex/xelatex/xepersian\unicode-pers
+ianmath.sty
+Package: unicode-persianmath 2025/02/02 v1.2.3 Unicode Persian math
+)
+(C:\Users\ASUS\AppData\Local\Programs\MiKTeX\tex/xelatex/bidi\bidi.sty
+Package: bidi 2025/02/02 v25.2.2 (Release Maryam Mirzakhani) Bidirectional type
+setting in plain TeX and LaTeX
+
+****************************************************
+* 
+* bidi package (Bidirectional typesetting in
+* plain TeX and LaTeX, using XeTeX engine)
+* 
+* Description: A convenient interface for
+* typesetting bidirectional texts in plain TeX
+* and LaTeX. The package includes adaptations
+* for use with many other commonly-used packages.
+* 
+* Copyright (c) 2007--2025 Vafa Khalighi
+* Copyright (c) 2018--2020 bidi-tex GitHub organization
+* 
+* v25.2.2 (Release Maryam Mirzakhani), 2025/02/02
+* 
+* License: LaTeX Project Public License, version
+* 1.3c or higher (your choice)
+* 
+* Location on CTAN: /macros/xetex/latex/bidi
+* 
+* Issue tracker: https://github.com/xepersian/bidi/issues
+* 
+* Discussions: https://github.com/xepersian/bidi/discussions
+* 
+* Primary author of bidi package: Vafa Khalighi.
+* 
+****************************************************
+(C:\Users\ASUS\AppData\Local\Programs\MiKTeX\tex/xelatex/bidi\biditools.sty
+Package: biditools 2025/02/02 v2.7 Programming tools for bidi package
+\@bidi@envbody=\toks25
+\@bidi@emptytoks=\toks26
+\bidi@poscount=\count345
+\bidi@tempcountb=\count346
+\bidi@temptoksa=\toks27
+\bidi@temptoksb=\toks28
+\bidi@dummies=\count347
+\bidi@are@these@correct=\toks29
+\bidi@toks@lista=\toks30
+\bidi@toks@listb=\toks31
+\bidi@stack@length=\count348
+\bidi@empty@stack=\toks32
+\bidi@looprepeat@depth=\count349
+)
+(C:\Users\ASUS\AppData\Local\Programs\MiKTeX\tex/latex/zref\zref-abspage.sty
+Package: zref-abspage 2025-06-08 v2.36 Module abspage for zref (HO)
+
+(C:\Users\ASUS\AppData\Local\Programs\MiKTeX\tex/latex/zref\zref-base.sty
+Package: zref-base 2025-06-08 v2.36 Module base for zref (HO)
+
+(C:\Users\ASUS\AppData\Local\Programs\MiKTeX\tex/generic/ltxcmds\ltxcmds.sty
+Package: ltxcmds 2023-12-04 v1.26 LaTeX kernel commands for general use (HO)
+)
+(C:\Users\ASUS\AppData\Local\Programs\MiKTeX\tex/generic/infwarerr\infwarerr.st
+y
+Package: infwarerr 2019/12/03 v1.5 Providing info/warning/error messages (HO)
+)
+(C:\Users\ASUS\AppData\Local\Programs\MiKTeX\tex/latex/kvsetkeys\kvsetkeys.sty
+Package: kvsetkeys 2022-10-05 v1.19 Key value parser (HO)
+)
+(C:\Users\ASUS\AppData\Local\Programs\MiKTeX\tex/generic/kvdefinekeys\kvdefinek
+eys.sty
+Package: kvdefinekeys 2019-12-19 v1.6 Define keys (HO)
+)
+(C:\Users\ASUS\AppData\Local\Programs\MiKTeX\tex/generic/pdftexcmds\pdftexcmds.
+sty
+Package: pdftexcmds 2020-06-27 v0.33 Utility functions of pdfTeX for LuaTeX (HO
+)
+ (C:\Users\ASUS\AppData\Local\Programs\MiKTeX\tex/generic/iftex\iftex.sty
+Package: iftex 2024/12/12 v1.0g TeX engine tests
+)
+Package pdftexcmds Info: \pdf@primitive is available.
+Package pdftexcmds Info: \pdf@ifprimitive is available.
+Package pdftexcmds Info: \pdfdraftmode not found.
+)
+(C:\Users\ASUS\AppData\Local\Programs\MiKTeX\tex/generic/etexcmds\etexcmds.sty
+Package: etexcmds 2019/12/15 v1.7 Avoid name clashes with e-TeX commands (HO)
+) (C:\Users\ASUS\AppData\Local\Programs\MiKTeX\tex/latex/auxhook\auxhook.sty
+Package: auxhook 2019-12-17 v1.6 Hooks for auxiliary files (HO)
+)
+Package zref Info: New property list: main on input line 767.
+Package zref Info: New property: default on input line 768.
+Package zref Info: New property: page on input line 769.
+)
+\c@abspage=\count350
+Package zref Info: New property: abspage on input line 67.
+)
+\@bidi@copyins@=\insert252
+\bidi@typesethour=\count351
+\bidi@typesetminute=\count352
+
+(C:\Users\ASUS\AppData\Local\Programs\MiKTeX\tex/xelatex/bidi\latex-xetex-bidi.
+def
+File: latex-xetex-bidi.def 2025/01/03 v1.5.2 bidi adaptations for `latex.ltx' f
+or XeTeX engine
+\bidi@n@everypar=\toks33
+LaTeX Info: Redefining \centerline on input line 316.
+LaTeX Info: Redefining \leftline on input line 325.
+LaTeX Info: Redefining \rightline on input line 326.
+LaTeX Info: Redefining \underline on input line 334.
+\bidi@column@check@number=\count353
+
+(C:\Users\ASUS\AppData\Local\Programs\MiKTeX\tex/xelatex/bidi\footnote-xetex-bi
+di.def
+File: footnote-xetex-bidi.def 2024/12/14 v1.3 bidi footnote macros for XeTeX en
+gine
+\c@footdir@label=\count354
+\footdir@toks=\toks34
+)
+(C:\Users\ASUS\AppData\Local\Programs\MiKTeX\tex/xelatex/bidi\article-xetex-bid
+i.def
+File: article-xetex-bidi.def 2025/01/05 v0.9 bidi adaptations for standard arti
+cle class for XeTeX engine
+)
+(C:\Users\ASUS\AppData\Local\Programs\MiKTeX\tex/xelatex/bidi\amsmath-xetex-bid
+i.def
+File: amsmath-xetex-bidi.def 2020/05/16 v1.2 bidi adaptations for amsmath packa
+ge for XeTeX engine
+)
+(C:\Users\ASUS\AppData\Local\Programs\MiKTeX\tex/xelatex/bidi\amstext-xetex-bid
+i.def
+File: amstext-xetex-bidi.def 2016/09/12 v0.2 bidi adaptations for amstext packa
+ge for XeTeX engine
+)
+(C:\Users\ASUS\AppData\Local\Programs\MiKTeX\tex/xelatex/bidi\caption-xetex-bid
+i.def
+File: caption-xetex-bidi.def 2010/07/25 v0.1 bidi adaptations for caption packa
+ge for XeTeX engine
+)
+(C:\Users\ASUS\AppData\Local\Programs\MiKTeX\tex/xelatex/bidi\caption3-xetex-bi
+di.def
+File: caption3-xetex-bidi.def 2013/04/01 v0.1 bidi adaptations for caption3 pac
+kage for XeTeX engine
+)
+(C:\Users\ASUS\AppData\Local\Programs\MiKTeX\tex/xelatex/bidi\float-xetex-bidi.
+def
+File: float-xetex-bidi.def 2013/04/04 v0.2 bidi adaptations for float package f
+or XeTeX engine
+)
+(C:\Users\ASUS\AppData\Local\Programs\MiKTeX\tex/xelatex/bidi\graphicx-xetex-bi
+di.def
+File: graphicx-xetex-bidi.def 2017/06/17 v0.5 bidi adaptations for graphicx pac
+kage for XeTeX engine
+))
+\bidi@digits=\count355
+\bidi@digits@charclass=\XeTeXcharclass1
+\bidi@sepmark@charclass=\XeTeXcharclass2
+)
+\xepersian@tcl=\count356
+\xepersian@ilg=\dimen171
+\xepersian@strutilg=\dimen172
+
+(C:\Users\ASUS\AppData\Local\Programs\MiKTeX\tex/xelatex/xepersian\footnote-xet
+ex-bidi-xetex-xepersian.def
+File: footnote-xetex-bidi-xetex-xepersian.def 2017/08/09 v0.6 xepersian adaptat
+ions for footnotes for XeTeX engine
+)
+(C:\Users\ASUS\AppData\Local\Programs\MiKTeX\tex/xelatex/xepersian\article-xete
+x-xepersian.def
+File: article-xetex-xepersian.def 2010/07/25 v0.2 xepersian adaptations for sta
+ndard article class for XeTeX engine
+)
+\xepersian@toks=\toks35
+)
+
+Package fontspec Info: 
+(fontspec)             Font family 'lmroman10-regular(0)' created for font
+(fontspec)             'lmroman10-regular' with options
+(fontspec)             [Ligatures=TeX,Path,BoldFont={lmroman10-bold},BoldItalic
+Font={lmroman10-bolditalic},ItalicFont={lmroman10-italic},SmallCapsFont={lmroma
+ncaps10-regular},SlantedFont={lmromanslant10-regular},BoldSlantedFont={lmromans
+lant10-bold}].
+(fontspec)              
+(fontspec)              This font family consists of the following NFSS
+(fontspec)             series/shapes:
+(fontspec)              
+(fontspec)             - 'normal' (m/n) with NFSS spec.:
+(fontspec)             <->"[lmroman10-regular]/OT:script=latn;language=dflt;map
+ping=tex-text;"
+(fontspec)             - 'small caps'  (m/sc) with NFSS spec.:
+(fontspec)             <->"[lmromancaps10-regular]/OT:script=latn;language=dflt
+;mapping=tex-text;"
+(fontspec)             - 'bold' (b/n) with NFSS spec.:
+(fontspec)             <->"[lmroman10-bold]/OT:script=latn;language=dflt;mappin
+g=tex-text;"
+(fontspec)             - 'bold small caps'  (b/sc) with NFSS spec.:
+(fontspec)             <->"[lmromancaps10-regular]/OT:script=latn;language=dflt
+;mapping=tex-text;"
+(fontspec)             - 'italic' (m/it) with NFSS spec.:
+(fontspec)             <->"[lmroman10-italic]/OT:script=latn;language=dflt;mapp
+ing=tex-text;"
+(fontspec)             - 'italic small caps'  (m/scit) with NFSS spec.:
+(fontspec)             <->"[lmromancaps10-regular]/OT:script=latn;language=dflt
+;mapping=tex-text;"
+(fontspec)             - 'slanted' (m/sl) with NFSS spec.:
+(fontspec)             <->"[lmromanslant10-regular]/OT:script=latn;language=dfl
+t;mapping=tex-text;"
+(fontspec)             - 'slanted small caps'  (m/scsl) with NFSS spec.:
+(fontspec)             <->"[lmromancaps10-regular]/OT:script=latn;language=dflt
+;mapping=tex-text;"
+(fontspec)             - 'bold italic' (b/it) with NFSS spec.:
+(fontspec)             <->"[lmroman10-bolditalic]/OT:script=latn;language=dflt;
+mapping=tex-text;"
+(fontspec)             - 'bold italic small caps'  (b/scit) with NFSS spec.:
+(fontspec)             <->"[lmromancaps10-regular]/OT:script=latn;language=dflt
+;mapping=tex-text;"
+(fontspec)             - 'bold slanted' (b/sl) with NFSS spec.:
+(fontspec)             <->"[lmromanslant10-bold]/OT:script=latn;language=dflt;m
+apping=tex-text;"
+(fontspec)             - 'bold slanted small caps'  (b/scsl) with NFSS spec.:
+(fontspec)             <->"[lmromancaps10-regular]/OT:script=latn;language=dflt
+;mapping=tex-text;"
+
+
+(C:\Users\ASUS\AppData\Local\Programs\MiKTeX\tex/latex/xcolor\xcolor.sty
+Package: xcolor 2024/09/29 v3.02 LaTeX color extensions (UK)
+
+(C:\Users\ASUS\AppData\Local\Programs\MiKTeX\tex/latex/graphics-cfg\color.cfg
+File: color.cfg 2016/01/02 v1.6 sample color configuration
+)
+Package xcolor Info: Driver file: xetex.def on input line 274.
+
+(C:\Users\ASUS\AppData\Local\Programs\MiKTeX\tex/latex/graphics\mathcolor.ltx)
+Package xcolor Info: Model `cmy' substituted by `cmy0' on input line 1349.
+Package xcolor Info: Model `RGB' extended on input line 1365.
+Package xcolor Info: Model `HTML' substituted by `rgb' on input line 1367.
+Package xcolor Info: Model `Hsb' substituted by `hsb' on input line 1368.
+Package xcolor Info: Model `tHsb' substituted by `hsb' on input line 1369.
+Package xcolor Info: Model `HSB' substituted by `hsb' on input line 1370.
+Package xcolor Info: Model `Gray' substituted by `gray' on input line 1371.
+Package xcolor Info: Model `wave' substituted by `hsb' on input line 1372.
+)
+(C:\Users\ASUS\AppData\Local\Programs\MiKTeX\tex/xelatex/bidi\xcolor-xetex-bidi
+.def
+File: xcolor-xetex-bidi.def 2022/06/13 v0.3 bidi adaptations for xcolor package
+ for XeTeX engine
+LaTeX Info: Redefining \color on input line 48.
+)
+(C:\Users\ASUS\AppData\Local\Programs\MiKTeX\tex/latex/listings\listings.sty
+\lst@mode=\count357
+\lst@gtempboxa=\box57
+\lst@token=\toks36
+\lst@length=\count358
+\lst@currlwidth=\dimen173
+\lst@column=\count359
+\lst@pos=\count360
+\lst@lostspace=\dimen174
+\lst@width=\dimen175
+\lst@newlines=\count361
+\lst@lineno=\count362
+\lst@maxwidth=\dimen176
+
+(C:\Users\ASUS\AppData\Local\Programs\MiKTeX\tex/latex/listings\lstpatch.sty
+File: lstpatch.sty 2024/09/23 1.10c (Carsten Heinz)
+)
+(C:\Users\ASUS\AppData\Local\Programs\MiKTeX\tex/latex/listings\lstmisc.sty
+File: lstmisc.sty 2024/09/23 1.10c (Carsten Heinz)
+\c@lstnumber=\count363
+\lst@skipnumbers=\count364
+\lst@framebox=\box58
+)
+(C:\Users\ASUS\AppData\Local\Programs\MiKTeX\tex/latex/listings\listings.cfg
+File: listings.cfg 2024/09/23 1.10c listings configuration
+))
+Package: listings 2024/09/23 1.10c (Carsten Heinz)
+
+(C:\Users\ASUS\AppData\Local\Programs\MiKTeX\tex/xelatex/xepersian\listings-xet
+ex-xepersian.def
+File: listings-xetex-xepersian.def 2014/07/17 v0.3 xepersian adaptations for li
+stings package for XeTeX engine
+)
+(C:\Users\ASUS\AppData\Local\Programs\MiKTeX\tex/xelatex/bidi\listings-xetex-bi
+di.def
+File: listings-xetex-bidi.def 2025/01/03 v1.6 bidi adaptations for listings pac
+kage for XeTeX engine
+)
+(C:\Users\ASUS\AppData\Local\Programs\MiKTeX\tex/latex/psnfss\courier.sty
+Package: courier 2020/03/25 PSNFSS-v9.3 (WaS) 
+)
+
+Package fontspec Info: 
+(fontspec)             Could not resolve font "Vazirmatn Medium/I" (it
+(fontspec)             probably doesn't exist).
+
+
+Package fontspec Info: 
+(fontspec)             Font family 'VazirmatnMedium(0)' created for font
+(fontspec)             'Vazirmatn Medium' with options
+(fontspec)             [RawFeature={script=arab},Ligatures=PersianTeX].
+(fontspec)              
+(fontspec)              This font family consists of the following NFSS
+(fontspec)             series/shapes:
+(fontspec)              
+(fontspec)             - 'normal' (m/n) with NFSS spec.: <->"Vazirmatn
+(fontspec)             Medium/OT:script=latn;language=dflt;script=arab;mapping=
+persian-tex-text;"
+(fontspec)             - 'small caps'  (m/sc) with NFSS spec.: <->"Vazirmatn
+(fontspec)             Medium/OT:script=latn;language=dflt;script=arab;+smcp;ma
+pping=persian-tex-text;"
+(fontspec)             - 'bold' (b/n) with NFSS spec.: <->"Vazirmatn
+(fontspec)             Medium/B/OT:script=latn;language=dflt;script=arab;mappin
+g=persian-tex-text;"
+(fontspec)             - 'bold small caps'  (b/sc) with NFSS spec.:
+(fontspec)             <->"Vazirmatn
+(fontspec)             Medium/B/OT:script=latn;language=dflt;script=arab;+smcp;
+mapping=persian-tex-text;"
+(fontspec)             - 'bold italic' (b/it) with NFSS spec.: <->"Vazirmatn
+(fontspec)             Medium/BI/OT:script=latn;language=dflt;script=arab;mappi
+ng=persian-tex-text;"
+(fontspec)             - 'bold italic small caps'  (b/scit) with NFSS spec.:
+(fontspec)             <->"Vazirmatn
+(fontspec)             Medium/BI/OT:script=latn;language=dflt;script=arab;+smcp
+;mapping=persian-tex-text;"
+
+
+(C:\Users\ASUS\AppData\Local\Programs\MiKTeX\tex/latex/listings\lstlang1.sty
+File: lstlang1.sty 2024/09/23 1.10c listings language file
+)
+(C:\Users\ASUS\AppData\Local\Programs\MiKTeX\tex/latex/listings\lstmisc.sty
+File: lstmisc.sty 2024/09/23 1.10c (Carsten Heinz)
+)
+(C:\Users\ASUS\AppData\Local\Programs\MiKTeX\tex/xelatex/bidi\float-xetex-bidi.
+def
+File: float-xetex-bidi.def 2013/04/04 v0.2 bidi adaptations for float package f
+or XeTeX engine
+) (base.aux
+
+LaTeX Warning: Label `lst:rb-delete' multiply defined.
+
+)
+\openout1 = `base.aux'.
+
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 46.
+LaTeX Font Info:    ... okay on input line 46.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 46.
+LaTeX Font Info:    ... okay on input line 46.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 46.
+LaTeX Font Info:    ... okay on input line 46.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 46.
+LaTeX Font Info:    ... okay on input line 46.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 46.
+LaTeX Font Info:    ... okay on input line 46.
+LaTeX Font Info:    Checking defaults for TU/lmr/m/n on input line 46.
+LaTeX Font Info:    ... okay on input line 46.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 46.
+LaTeX Font Info:    ... okay on input line 46.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 46.
+LaTeX Font Info:    ... okay on input line 46.
+Package caption Info: Begin \AtBeginDocument code.
+Package caption Info: float package is loaded.
+Package caption Info: listings package is loaded.
+Package caption Info: End \AtBeginDocument code.
+\c@lstlisting=\count365
+
+
+[1
+
+] (base.toc
+LaTeX Font Info:    Trying to load font information for U+msa on input line 6.
+
+(C:\Users\ASUS\AppData\Local\Programs\MiKTeX\tex/latex/amsfonts\umsa.fd
+File: umsa.fd 2013/01/14 v3.01 AMS symbols A
+)
+LaTeX Font Info:    Trying to load font information for U+msb on input line 6.
+
+(C:\Users\ASUS\AppData\Local\Programs\MiKTeX\tex/latex/amsfonts\umsb.fd
+File: umsb.fd 2013/01/14 v3.01 AMS symbols B
+))
+\tf@toc=\write3
+\openout3 = `base.toc'.
+
+
+
+[2]
+File: img/definition-example.png Graphic file (type bmp)
+<img/definition-example.png>
+
+
+[3]
+File: img/redblack-example.png Graphic file (type bmp)
+<img/redblack-example.png>
+
+
+[4]
+File: img/left-rotation.png Graphic file (type bmp)
+<img/left-rotation.png>
+
+Overfull \hbox (77.99881pt too wide) in paragraph at lines 124--125
+ [][][][][][] 
+ []
+
+
+
+[5]
+LaTeX Font Info:    Trying to load font information for TU+pcr on input line 12
+9.
+LaTeX Font Info:    No file TUpcr.fd. on input line 129.
+
+
+LaTeX Font Warning: Font shape `TU/pcr/m/n' undefined
+(Font)              using `TU/lmr/m/n' instead on input line 129.
+
+
+LaTeX Font Warning: Font shape `TU/pcr/b/n' undefined
+(Font)              using `TU/pcr/m/n' instead on input line 133.
+
+File: img/right-rotation.png Graphic file (type bmp)
+<img/right-rotation.png>
+
+Overfull \hbox (39.00238pt too wide) in paragraph at lines 152--153
+ [][][][][][] 
+ []
+
+
+
+[6]
+
+[7]
+
+[8]
+File: img/insert-case1.png Graphic file (type bmp)
+<img/insert-case1.png>
+
+Overfull \hbox (39.00238pt too wide) in paragraph at lines 235--236
+ [][][][][][] 
+ []
+
+
+
+[9]
+File: img/insert-case2.png Graphic file (type bmp)
+<img/insert-case2.png>
+
+Overfull \hbox (39.00238pt too wide) in paragraph at lines 252--253
+ [][][][][][] 
+ []
+
+
+
+[10]
+Overfull \hbox (0.4604pt too wide) in paragraph at lines 266--267
+[][]\TU/VazirmatnMedium(0)/m/n/12 یک چرخش به راست (right rotation) روی گره پدرب
+زرگ $\OML/cmm/m/it/12 p\OMS/cmsy/m/n/12 ^^@ \OML/cmm/m/it/12 > p$ \TU/Vazirmatn
+Medium(0)/m/n/12 انجام می‌دهیم. []
+ []
+
+File: img/insert-case3.png Graphic file (type bmp)
+<img/insert-case3.png>
+
+Overfull \hbox (39.00238pt too wide) in paragraph at lines 278--279
+ [][][][][][] 
+ []
+
+
+
+[11]
+
+LaTeX Font Warning: Font shape `TU/pcr/m/it' undefined
+(Font)              using `TU/pcr/m/n' instead on input line 296.
+
+File: img/insert-fixup.png Graphic file (type bmp)
+<img/insert-fixup.png>
+
+
+[12]
+File: img/insert-fixup2.png Graphic file (type bmp)
+<img/insert-fixup2.png>
+
+Overfull \hbox (20.07924pt too wide) in paragraph at lines 345--348
+[]\TU/VazirmatnMedium(0)/m/n/12 جایگزین کرده و در صورت نیاز، با اجرای []\TU/lmr
+oman10-regular(0)/m/n/12 RB-DELETE-FIXUP[] \TU/VazirmatnMedium(0)/m/n/12 توازن 
+درخت را بازمی‌گرداند.[]
+ []
+
+
+
+[13]
+Missing character: There is no ≠ in font [lmroman12-regular]:mapping=tex-text;!
+
+
+[14]
+Missing character: There is no ≠ in font [lmroman12-regular]:mapping=tex-text;!
+File: img/delete-fixup.png Graphic file (type bmp)
+<img/delete-fixup.png>
+
+
+[15]
+File: img/advancedDelFix/delete-1-red-black.png Graphic file (type bmp)
+<img/advancedDelFix/delete-1-red-black.png>
+File: img/advancedDelFix/delete-2-red-black.png Graphic file (type bmp)
+<img/advancedDelFix/delete-2-red-black.png>
+
+
+[16]
+File: img/advancedDelFix/delete-3-red-black.png Graphic file (type bmp)
+<img/advancedDelFix/delete-3-red-black.png>
+File: img/advancedDelFix/delete-4-red-black.png Graphic file (type bmp)
+<img/advancedDelFix/delete-4-red-black.png>
+
+
+[17]
+File: img/advancedDelFix/delete-5-red-black.png Graphic file (type bmp)
+<img/advancedDelFix/delete-5-red-black.png>
+File: img/advancedDelFix/delete-6-red-black.png Graphic file (type bmp)
+<img/advancedDelFix/delete-6-red-black.png>
+File: img/advancedDelFix/delete-7-red-black.png Graphic file (type bmp)
+<img/advancedDelFix/delete-7-red-black.png>
+
+
+[18]
+File: img/advancedDelFix/delete-8-red-black.png Graphic file (type bmp)
+<img/advancedDelFix/delete-8-red-black.png>
+File: img/advancedDelFix/delete-9-red-black.png Graphic file (type bmp)
+<img/advancedDelFix/delete-9-red-black.png>
+File: img/advancedDelFix/delete-10-red-black.png Graphic file (type bmp)
+<img/advancedDelFix/delete-10-red-black.png>
+
+
+[19]
+File: img/advancedDelFix/delete-11-red-black.png Graphic file (type bmp)
+<img/advancedDelFix/delete-11-red-black.png>
+File: img/advancedDelFix/delete-12-red-black.png Graphic file (type bmp)
+<img/advancedDelFix/delete-12-red-black.png>
+
+
+[20]
+File: img/advancedDelFix/delete-13-red-black.png Graphic file (type bmp)
+<img/advancedDelFix/delete-13-red-black.png>
+
+Overfull \hbox (67.57199pt too wide) in paragraph at lines 514--515
+[][][]\TU/lmroman10-regular(0)/m/n/12 https://medium.com/analytics-vidhya/delet
+ion-in-red-black-rb-tree-92301e1474ea[] []
+ []
+
+
+
+[21] (base.aux)
+ ***********
+LaTeX2e <2025-06-01> patch level 1
+L3 programming layer <2025-07-19>
+ ***********
+
+
+LaTeX Font Warning: Some font shapes were not available, defaults substituted.
+
+
+LaTeX Warning: There were multiply-defined labels.
+
+ ) 
+Here is how much of TeX's memory you used:
+ 11303 strings out of 403265
+ 265002 string characters out of 5461437
+ 948762 words of memory out of 5000000
+ 39529 multiletter control sequences out of 15000+600000
+ 631702 words of font info for 87 fonts, out of 8000000 for 9000
+ 1348 hyphenation exceptions out of 8191
+ 99i,6n,107p,1163b,1117s stack positions out of 10000i,1000n,20000p,200000b,200000s
+
+Output written on base.pdf (21 pages).
