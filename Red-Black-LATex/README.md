@@ -1,5 +1,3 @@
-
-````markdown
 # Algorithm Notes and Exercises
 
 This repository contains a collection of algorithmic notes, LaTeX documents, and coding exercises related to various fundamental topics in computer science and algorithm design.
@@ -26,10 +24,9 @@ This repository contains a collection of algorithmic notes, LaTeX documents, and
 1. Clone the repository:
    ```bash
    git clone https://github.com/amirhoseincodes/AlgoTEXt.git
-````
+   ```
 
 2. Navigate to the LaTeX folder and compile any `.tex` file using:
-
    ```bash
    pdflatex filename.tex
    ```
